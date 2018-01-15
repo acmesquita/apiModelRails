@@ -1,3 +1,3 @@
 class Api::V1::BaseController < ApplicationController
-    include Authenticable
+    include DeviseTokenAuth::Concerns::SetUserByToken
 end
