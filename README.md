@@ -1,5 +1,16 @@
-# task-mamager-api
+# Api Model Rails
 
-## Version 01 - Simple version for task manager
+Base project completely tested and configured for a restful api in ruby on rails.
 
-## Version 02 - Version with updates in the return models json and new authentication implementation
+##Technology
+
+    RSpec
+    Faker
+    Database Cleaner
+    Shoulda Matchers
+    Factory Bot
+    Spring Commands Rspec
+    
+    Devise
+    Devise_token_auth
+    Runsack
