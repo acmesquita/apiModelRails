@@ -2,7 +2,7 @@
 
 Base project completely tested and configured for a restful api in ruby on rails.
 
-# Technology
+## Technology
 
     RSpec
     Faker
